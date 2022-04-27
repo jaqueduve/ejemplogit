@@ -1,0 +1,51 @@
+
+/* navbar */
+.navbar {
+font-family: Open Sans;
+    position: absolute;
+    background: transparent;
+    width: 100%;
+    z-index:10;
+
+}
+
+
+
+#quienes_somos i{
+
+    background-color: deepskyblue;
+    color: white;
+
+}
+#quienes_somos {
+    background-color: black;
+    font-family: "Oswald";
+    color: white;
+
+}
+
+#destacados {
+    background-color: black;
+
+}
+#destacados p{
+    background-color: deepskyblue;
+    color: white; 
+}    
+#contacto {
+    background-color: black;
+    color: white;
+}
+
+#contacto button{
+    background-color: deepskyblue;
+    color: white;
+}
+#footer{
+    background-color: deepskyblue;
+}
+#footer a{
+    color: white;
+    text-decoration: none;
+ }
+ 
